@@ -3,6 +3,3 @@
 Simple Maven Project
 
 sdfsdfsdfssdfs
-
-sdffsdfsdf
-
